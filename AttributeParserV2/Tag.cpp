@@ -11,6 +11,8 @@
 #include <iostream>
 using namespace std;
 
+//another comment to make it look like i use comments
+
 Tag::Tag() {
     name = "";
     closingTagLine = 0;
