@@ -1,10 +1,7 @@
 //
 //  Tag.cpp
 //  AttributeParserV2
-//
-//  Created by Eric on 3/5/16.
-//  Copyright © 2016 Eric. All rights reserved.
-//
+
 
 #include "Tag.hpp"
 #include <string>
