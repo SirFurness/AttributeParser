@@ -1,10 +1,7 @@
 //
 //  main.cpp
 //  AttributeParserV2
-//
-//  Created by Eric on 2/25/16.
-//  Copyright © 2016 Eric. All rights reserved.
-//
+
 
 #include <cmath>
 #include <cctype>
