@@ -1,10 +1,7 @@
 //
 //  Tag.hpp
 //  AttributeParserV2
-//
-//  Created by Eric on 3/5/16.
-//  Copyright © 2016 Eric. All rights reserved.
-//
+
 
 #ifndef Tag_hpp
 #define Tag_hpp
